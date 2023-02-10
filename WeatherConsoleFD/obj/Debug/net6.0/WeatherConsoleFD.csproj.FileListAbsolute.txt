@@ -1,0 +1,17 @@
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\obj\Debug\net6.0\WeatherConsoleFD.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\obj\Debug\net6.0\WeatherConsoleFD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\obj\Debug\net6.0\WeatherConsoleFD.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\obj\Debug\net6.0\WeatherConsoleFD.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\obj\Debug\net6.0\WeatherConsoleFD.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\bin\Debug\net6.0\WeatherConsoleFD.exe
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\bin\Debug\net6.0\WeatherConsoleFD.deps.json
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\bin\Debug\net6.0\WeatherConsoleFD.runtimeconfig.json
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\bin\Debug\net6.0\WeatherConsoleFD.dll
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\bin\Debug\net6.0\ref\WeatherConsoleFD.dll
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\bin\Debug\net6.0\WeatherConsoleFD.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\obj\Debug\net6.0\WeatherConsoleFD.csproj.CopyComplete
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\obj\Debug\net6.0\WeatherConsoleFD.dll
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\obj\Debug\net6.0\ref\WeatherConsoleFD.dll
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\obj\Debug\net6.0\WeatherConsoleFD.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\weatherconsolefd\WeatherConsoleFD\obj\Debug\net6.0\WeatherConsoleFD.genruntimeconfig.cache
